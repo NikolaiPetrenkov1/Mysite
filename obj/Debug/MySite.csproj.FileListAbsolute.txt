@@ -1,0 +1,15 @@
+C:\Users\ПетренковН\source\repos\MySite\MySite\bin\Debug\MySite.exe.config
+C:\Users\ПетренковН\source\repos\MySite\MySite\bin\Debug\MySite.exe
+C:\Users\ПетренковН\source\repos\MySite\MySite\bin\Debug\MySite.pdb
+C:\Users\ПетренковН\source\repos\MySite\MySite\obj\Debug\MySite.csprojResolveAssemblyReference.cache
+C:\Users\ПетренковН\source\repos\MySite\MySite\obj\Debug\MainWindow.g.cs
+C:\Users\ПетренковН\source\repos\MySite\MySite\obj\Debug\App.g.cs
+C:\Users\ПетренковН\source\repos\MySite\MySite\obj\Debug\MySite_MarkupCompile.cache
+C:\Users\ПетренковН\source\repos\MySite\MySite\obj\Debug\MySite_MarkupCompile.lref
+C:\Users\ПетренковН\source\repos\MySite\MySite\obj\Debug\MainWindow.baml
+C:\Users\ПетренковН\source\repos\MySite\MySite\obj\Debug\MySite.g.resources
+C:\Users\ПетренковН\source\repos\MySite\MySite\obj\Debug\MySite.Properties.Resources.resources
+C:\Users\ПетренковН\source\repos\MySite\MySite\obj\Debug\MySite.csproj.GenerateResource.Cache
+C:\Users\ПетренковН\source\repos\MySite\MySite\obj\Debug\MySite.csproj.CoreCompileInputs.cache
+C:\Users\ПетренковН\source\repos\MySite\MySite\obj\Debug\MySite.exe
+C:\Users\ПетренковН\source\repos\MySite\MySite\obj\Debug\MySite.pdb
